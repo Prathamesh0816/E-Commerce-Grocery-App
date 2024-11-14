@@ -1,1 +1,1 @@
-# E-Commerce-Grocery-App-Spring-MVC
+# E-Commerce-Grocery-App
